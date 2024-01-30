@@ -1,0 +1,20 @@
+.head{
+    font-size: 30px;
+    font-weight: 550;
+    margin-left: 600px;
+    color: rgb(64, 31, 109);
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    float: left;
+    padding: 25px;
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container {
+    padding: 2px 16px;
+  }
+  h5{
+    text-decoration: line-through;
+  }

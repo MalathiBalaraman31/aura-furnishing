@@ -1,0 +1,19 @@
+H1{
+    font-size: 30px;
+    font-weight: 550;
+    margin-left: 350px;
+    margin-top: 30px;
+    color: rgba(190, 233, 17, 0.901);
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    float: left;
+    padding: 25px;
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container {
+    padding: 2px 16px;
+  }
+  

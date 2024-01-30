@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(246, 240, 244);
+}
+img{
+    height:600px;
+    width:100%;
+}
+ul {
+    list-style-type: none;
+   
+  }
+li{
+    float: left;
+    padding-left: 20px;
+    padding: 14px;
+    background-color: rgb(246, 240, 244);
+    color: rgb(41, 40, 40);
+    font-size: 18px;
+    font-weight: 570;
+    padding-right: 60px;
+}
+.name{
+    color: rgb(195, 22, 195);
+}
+pre{
+    font-size: 25px;
+}
+ pre b{
+    font-weight: 900;
+}
+pre i{
+    font-weight: 300;
+}
+h1{
+    padding-left: 500px;
+    color: rgb(255, 158, 55);
+}
+.category
+{
+    float: left;
+    height: 220px;
+    width: 20%;
+    padding: 22px;
+    padding-left: 40px;
+}
+.new
+{
+    color: darkred;
+    padding-left: 550px;
+}
+.arrival
+{
+    
+    float: left;
+    height: 220px;
+    width: 20%;
+    padding: 22px;
+    padding-left: 40px;
+}
+h2
+{
+    color: rgb(86, 162, 244);
+}
+article{
+    padding-top: 40px;
+    padding: 30px;
+    color: rgb(166, 174, 5);
+}
+.footerr{
+    font-size: medium;
+}
+footer{
+    background-color: rgb(244, 233, 241);
+    padding-top: 10px;
+    color: rgb(6, 6, 68);
+}
+.facebook{
+    padding: 5px;
+}
+.instagram{
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: darkmagenta;
+}
